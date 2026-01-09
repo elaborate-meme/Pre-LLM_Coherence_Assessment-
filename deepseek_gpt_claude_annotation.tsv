@@ -1,0 +1,501 @@
+file	segment	sentences	DeepSeek_dim1	DeepSeek_dim2	DeepSeek_dim4	GPT-4o_dim1	GPT-4o_dim2	GPT-4o_dim4	Claude_dim1	Claude_dim2	Claude_dim4
+2020_MLa_100_2.docx	Introductory material	There is an opinion that watching sports on telly or visiting sports events on stadiums is killing the time that could be used for better things.	H	L	H	H	H	H	H	H	H
+2020_MLa_100_2.docx	Thesis	In my opinion, there is some truth in it, but I cannot fully agree as well.	H	H	H	H	H	L	H	H	L
+2020_MLa_100_2.docx	Argument	First of all, I'll try to explain why I think watching sport is good for some people.	H	H	L	H	H	L	H	H	H
+2020_MLa_100_2.docx	Elaboration	All of us have their leisure time and there is no secret that a lot of us like some kind of sport activity.	H	L	H	L	L	L	H	L	H
+2020_MLa_100_2.docx	Elaboration	Therefore, when you have nothing to do or you want to rest for some time, it may be useful to watch your favourite sport, look at the professionals and their skill level.	H	H	H	H	H	H	H	H	H
+2020_MLa_100_2.docx	Elaboration	It may even be a motivator for somebody to start working on themselves and to become a better specialist in the things they do.	H	H	H	H	H	H	H	H	H
+2020_MLa_100_2.docx	Elaboration	Moreover, professional sports are estetically attractive: athletes on their peak compete for the prize and try to become a legacy.	H	L	H	H	L	L	H	L	L
+2020_MLa_100_2.docx	Elaboration	One more fun thing about watching sports is that you can go to live sport events with your friends and have a great time, it is a brilliant possibility to see your favorite sportsmen and enjoy the crowd.	H	L	H	H	L	H	H	L	H
+2020_MLa_100_2.docx	Argument	Secondly, it is important to notice that watching sports can really become a struggle for someone.	L	H	L	L	H	L	L	H	H
+2020_MLa_100_2.docx	Elaboration	For example, a lot of people in our country watch sports only as a reason to drink a bottle of beer or just to escape from their home duties.	H	H	H	H	H	H	H	H	H
+2020_MLa_100_2.docx	Elaboration	These habits are bad and soon convert into a system of alcohol addiction and loosing interest in the basic process of watching.	L	L	H	L	L	H	H	L	H
+2020_MLa_100_2.docx	Argument	Also, there is one more bad thing you can be dragged into watching sports - it is bets.	H	L	H	L	L	H	H	L	H
+2020_MLa_100_2.docx	Elaboration	If you cannot control your passion, it is better for you not to invest money in something like this, because you can easilly loose a lot if you will not notice that it is time to stop.	H	L	L	H	L	L	H	L	L
+2020_MLa_100_2.docx	Conclusion	In conclusion, I would like to say that even if sometimes it can be useful to watch sports and have a good time, it may become a harmfull experience for you if you get dragged into it too much.	H	L	H	H	L	H	H	L	H
+2020_MLa_101_2.docx	Thesis	One question that caused a great deal of contoroversy over the years is that watching any kind of sports is useless.	H	L	H	L	L	H	H	L	H
+2020_MLa_101_2.docx	Thesis	Altough, in my opinion, it is a good way to vary your free time.	H	L	H	H	L	H	H	L	H
+2020_MLa_101_2.docx	Argument	The strongest reason in supporting my point of view is that sports is one of the most popular hobbies that helps people not only to spend their time efficiently but also be healthy and keep fit.	H	H	H	H	H	H	H	H	H
+2020_MLa_101_2.docx	Elaboration	Unfortunately, many people are afraid of taking up such hobby because they think that there is a small chance that they can succeed in it.	L	L	H	L	H	H	L	H	H
+2020_MLa_101_2.docx	Elaboration	However, a simple watching of different kinds of sports can inspire a person to start making some changes in his/her life and help him/her to understand what sport he/she is up to.	H	L	H	H	H	H	H	L	H
+2020_MLa_101_2.docx	Argument	The other compelling reason is that watching sports is important for professional sportsmen as well as those who have just overcome their fears and just begun their sports paths.	H	H	H	H	H	H	H	H	H
+2020_MLa_101_2.docx	Elaboration	While watching, they can see the mistakes of their competitors and then work on them to be better next time.	H	H	H	H	H	H	H	H	H
+2020_MLa_101_2.docx	Elaboration	Speaking about beginners, watching professionals is important for them because if they start doing sports themselves, they have to know how to do everything right in this or that situation.	H	H	H	H	H	H	H	H	H
+2020_MLa_101_2.docx	Conclusion	In conclusion, there is no doubt that many people just spend money and time getting nothing in return but I believe that it is also wise to take into account the fact that this is one of the ways to spend your free time.	H	L	L	H	L	L	H	H	L
+2020_MLa_101_2.docx	Conclusion	Personally i do not see anything bad in spending it this way.	H	L	H	H	L	H	H	L	H
+2020_MLa_101_2.docx	Irrelevant	The person who watches sports either was into sports in the childhood or is just not ready to achieve the heights.	L	L	L	L	H	L	L	L	L
+2020_MLa_102_2.docx	Thesis	There is no question that a lot of people watch sports on TV and somewhere outside.	H	H	H	H	H	H	H	H	H
+2020_MLa_102_2.docx	Thesis	The popular beleif is that such activity is a real waste of time.	H	L	H	L	L	H	H	L	H
+2020_MLa_102_2.docx	Thesis	I partially agree with this statement.	H	H	H	L	H	L	H	H	H
+2020_MLa_102_2.docx	Argument	There are some arguments for unnecessarity of watching sports.	H	L	L	H	L	L	H	L	H
+2020_MLa_102_2.docx	Argument	The first of these is that people don't get any usefull information from it.	H	L	H	H	L	H	H	L	H
+2020_MLa_102_2.docx	Argument	Unfortunatelly, watching sports doesn't teach us anything and people don't get any information about the surrounding world from it.	H	L	H	H	L	H	H	L	H
+2020_MLa_102_2.docx	Elaboration	It would be better, for example, to go to the library or watch some scientific channeles.	H	L	L	H	L	H	H	L	L
+2020_MLa_102_2.docx	Argument	Another argument is that if a person begin to watch sports on TV quite often, he starts to lead sedentary lifestyle.	H	L	L	H	L	L	H	L	L
+2020_MLa_102_2.docx	Elaboration	For example, while doing such activity, people usually lie down on sofas eating some food.	H	H	H	H	H	H	H	H	H
+2020_MLa_102_2.docx	Elaboration	That can even hurt a persons health.	H	L	H	H	L	H	H	L	L
+2020_MLa_102_2.docx	Argument	There are, however, equally strong arguments in favour on watching sports on TV or at live events.	H	L	L	L	L	L	H	L	L
+2020_MLa_102_2.docx	Argument	Firstly, people nowadays work a lot and they got really tired after job.	L	L	L	L	L	L	L	L	L
+2020_MLa_102_2.docx	Argument	Watchig some sports can help a person to get rid of a stress.	H	L	H	H	L	H	L	L	L
+2020_MLa_102_2.docx	Argument	Also it is a good way to get some positive emotions.	H	H	H	L	H	H	H	L	H
+2020_MLa_102_2.docx	Elaboration	All of this can even promote the future productivity in work.	L	H	L	L	H	L	H	H	L
+2020_MLa_102_2.docx	Argument	Another related argument is that watching some sports is a good reason to meet friends or gather family in order to spend time together.	H	H	H	L	H	L	L	H	L
+2020_MLa_102_2.docx	Elaboration	It helps people better communicate with each other and have fun.	H	H	H	H	H	H	H	H	H
+2020_MLa_102_2.docx	Conclusion	To conclude, there is a widely held view that watchig sports on TV or outside is quite unncessary.	H	L	L	L	L	L	L	L	L
+2020_MLa_102_2.docx	Conclusion	And this point of view isn't unfounded.	H	H	H	L	H	H	L	H	H
+2020_MLa_102_2.docx	Conclusion	But in contrast to this opinion there are a lot of strong arguments for positive infuential of such an activity.	H	L	H	L	L	H	L	L	H
+2020_MLa_103_2.docx	Introductory	Sports have always been the kind of entertainment that brings people together and sometimes helps them to forget about their problems.	H	H	H	L	H	H	H	H	H
+2020_MLa_103_2.docx	Thesis	Nevertheless, some people suppose that watching sports is useless activity that do not possess any brain activity.	H	L	H	H	L	H	H	L	H
+2020_MLa_103_2.docx	Thesis	Actually, I agree with the second point of view, and I am going to support my opinion with some arguments.	H	H	H	H	H	L	H	H	L
+2020_MLa_103_2.docx	Argument	To start with, there is a variety of activities that could be done instead of television.	H	H	H	H	H	L	H	H	L
+2020_MLa_103_2.docx	Elaboration	For example, learning new language or teaching programming by yourself.	H	L	H	L	L	H	H	L	L
+2020_MLa_103_2.docx	Elaboration	Secondly, simply not watching but doing sports by yourself, for instance, swimming, exercising in gym or jogging in park or around some buildings or neighboorhood.	H	L	L	L	L	L	H	L	L
+2020_MLa_103_2.docx	Elaboration	Finally, there are myriad of ways of spending your leisure time with relatives and friends such as carting, playing volleyball, basketball or hockey.	H	L	H	H	L	L	H	L	H
+2020_MLa_103_2.docx	Argument	However, there is an opposing suggestion that watching sports on TV channels is not useless.	L	H	H	L	H	L	H	L	H
+2020_MLa_103_2.docx	Elaboration	To start with, it should be said that people in bars, pubs and cafes talk about routine and everyday problems while watching these programmes.	L	H	H	L	H	H	L	H	H
+2020_MLa_103_2.docx	Elaboration	Then, it is one of the most efficient ways to develop communication skills by speaking with other sports fans in order to be in touch with recent news.	H	H	H	L	H	H	L	H	H
+2020_MLa_103_2.docx	Elaboration	Also, during the match people blow out negative emotions and become less stressed after the match.	H	L	L	L	H	H	L	L	L
+2020_MLa_103_2.docx	Conclusion	In conclusion, it ought to be mentioned that watching sports events on TV unite people from various social classes, professions, religions and statuses.	L	H	L	L	L	L	L	L	L
+2020_MLa_103_2.docx	Conclusion	Nevertheless, there are other ways of spending free time intellectually and socially.	L	H	H	L	H	L	L	H	L
+2020_MLa_104_2.docx	Thesis	It is popularly believed, that sport programms on TV or another sport translation are useless for everybody.	H	L	H	H	L	H	H	L	H
+2020_MLa_104_2.docx	Thesis	It can be destructive not only for your time management, but for your health too.	H	H	H	H	H	H	H	H	L
+2020_MLa_104_2.docx	Thesis	I totally agree with this statement, if you really like sport it will be more usefull for you to train instead watching TV.	H	L	H	H	L	H	H	L	H
+2020_MLa_104_2.docx	Argument	We live in an age when many of us are sportsmens, because it is popular by all people all around the world.	L	L	H	L	L	L	L	L	H
+2020_MLa_104_2.docx	Argument	And sport is a big part of our live.	L	L	H	L	L	H	L	L	H
+2020_MLa_104_2.docx	Elaboration	Every year we can visit special sport ivents, or watch them on tv or in internet.	L	L	H	L	L	H	L	L	H
+2020_MLa_104_2.docx	Elaboration	Nevertheless, there is type of people who is sitting before the desktop or tv and watching sport programms all the day.	L	L	H	L	L	H	H	L	H
+2020_MLa_104_2.docx	Elaboration	These is radical sport fans, and in this case they cant enrich their brains, they just watching only sport.	H	L	H	L	L	H	H	L	H
+2020_MLa_104_2.docx	Elaboration	By all mean it is harmfull for them.	L	L	H	L	L	H	L	L	H
+2020_MLa_104_2.docx	Elaboration	It is better to watch special programms about science and culture to became an interesting person.	H	L	L	L	L	L	H	L	L
+2020_MLa_104_2.docx	Elaboration	Sport programms waste your time, they can not give you a new usefull information about finance, economy, develop your worldview.	H	L	H	L	L	H	H	L	H
+2020_MLa_104_2.docx	Argument	Moreover watching sportevents replaces for some people physical activity, they dont want to move, to try something new, to hang out with their friends in the park.	H	L	H	H	L	H	H	L	H
+2020_MLa_104_2.docx	Elaboration	As well people who do not train suffer more from cancer and health problems in comparison to people who are engaged in sport on a regular basis.	H	L	H	H	L	H	H	L	H
+2020_MLa_104_2.docx	Elaboration	Due to it fitness center or playing volleyball outside with your friends can benefit you much more profit as watching professional sport on TV or in internet.	H	L	H	H	L	H	H	L	H
+2020_MLa_104_2.docx	Argument	Onthe other hand there is meaning that, some people watching TV only to relax after work	L	L	L	L	L	H	L	L	L
+2020_MLa_104_2.docx	Elaboration	and in this case it can not be so harmull for your brain, it can be usefull, because your brain can rest and focus on important things.	L	L	H	H	L	H	H	L	H
+2020_MLa_104_2.docx	Conclusion	To sum up, watching sport programs are not usefull for your brain, it can not gives you something usefull, what can develop your skills or make your body strengh and fit.	H	L	H	H	L	H	H	L	H
+2020_MLa_104_2.docx	Conclusion	It can kill your time which you can spend on important things.	H	H	H	L	H	H	H	L	H
+2020_MLa_104_2.docx	Conclusion	Speaking honestly, i now a lot of healthy people who refused to watch sport and benefit a lot of good things like more free time for family and trainings.	H	L	L	L	L	H	H	L	H
+2020_MLa_104_2.docx	Conclusion	Last but not least watching another science programms can enreach your horizonts.	L	L	L	L	L	L	L	L	L
+2020_MLa_105_2.docx	Thesis	There are people who consider watching aports on TV or at actual live events as loss of time.	H	L	H	L	L	H	H	L	H
+2020_MLa_105_2.docx	Thesis	Personally, I disagree that this pastime is completely fruitless.	H	H	H	H	H	H	H	H	H
+2020_MLa_105_2.docx	Argument	Firstly, watching sports on TV or attending sports events is an optional choice of everyone.	H	H	H	L	H	L	L	H	L
+2020_MLa_105_2.docx	Elaboration	Many people choose it as a part of their leisure activity, as a way of of going out with friends, as their destiny to support one team or to be the most loyal fan of a particular sport.	H	L	H	H	L	H	H	L	H
+2020_MLa_105_2.docx	Elaboration	The most important thing here, purpose of these activities is getting emotions, having an amazing pastime and emitting either positive or negative energy around.	H	L	H	L	L	H	H	L	H
+2020_MLa_105_2.docx	Elaboration	However, this can ensue in addiction or even more - a gambling addiction with bets.	L	L	H	L	H	L	L	L	L
+2020_MLa_105_2.docx	Elaboration	Nevertheless, it often does not lead to that dramatic extent.	L	H	H	L	H	H	L	H	H
+2020_MLa_105_2.docx	Argument	Secondly, another point to consider is the perusing and studying the play or the moves of professional players by watching them play during the match, or a fight, or his/her perfomance..	H	L	L	H	L	L	H	L	L
+2020_MLa_105_2.docx	Elaboration	I adhere to the point of view that amateurs of whatever sport can improve their skills and enjoy the professional elegance at the same time by watching the sports on TV, for example, so they can later apply it on practice.	H	L	H	H	L	H	H	L	H
+2020_MLa_105_2.docx	Elaboration	Moreover, Taking after certain sportsman can be a way to nurture person's skills and developing a better appearance in a particular sport.	H	L	H	H	L	H	H	L	H
+2020_MLa_105_2.docx	Conclusion	To sum up, I wanted to resume some points previously mentioned that watching sports may be percieved as a perfect amusement and the bad habit as well.	H	L	L	L	L	L	L	L	L
+2020_MLa_105_2.docx	Conclusion	All in all, the most significant point is that these things depend only on the person's attitude towards them and the ability to learn something new from the his or her own experience.	H	L	H	H	L	H	L	L	H
+2020_MLa_106_2.docx	Thesis	There are people who belive that watching sports and not participating is a wastage of person's free time.	H	L	H	L	L	H	H	L	H
+2020_MLa_106_2.docx	Thesis	I completely disagree with this statement and consider that doing this still show certain positive effects on the beholder of a game.	H	L	H	H	L	H	H	L	H
+2020_MLa_106_2.docx	Argument	First of all, while watching sport games or sport competitions, no matter on TV or in the stadium, the person can encourage a team and individual player to contunie to fight, to play or something else.	H	L	H	H	L	H	H	L	H
+2020_MLa_106_2.docx	Elaboration	It is vital for athletes to see someone in the stands, becouse it makes them motivated and lifts the spirit.	H	L	H	H	L	H	H	L	H
+2020_MLa_106_2.docx	Elaboration	For example, the great number of football players say that they prefer playng while the stadium is full of fans shoutng out word of encouragement and making supportive posters.	H	L	H	H	L	H	H	L	H
+2020_MLa_106_2.docx	Elaboration	That is way watching sports is not a waste of time - you can help your favourite team, or even your country, win.	H	L	H	H	L	H	H	L	H
+2020_MLa_106_2.docx	Argument	Secondly, if you are a player too, it is important to watch how you rivals and the world champions play.	H	L	H	H	L	H	H	L	L
+2020_MLa_106_2.docx	Argument	It can help you create the best strategy for future workouts, for participation in contests and just broaden your horizons of understanding the sport.	H	H	H	H	H	H	H	H	H
+2020_MLa_106_2.docx	Elaboration	For instance, the famous professional boxer Mike Tyson often watched games of other boxers for understanding their techniques and weak places.	H	L	H	H	H	H	H	L	H
+2020_MLa_106_2.docx	Elaboration	It helped him and now he is a worldclass star.	L	H	H	L	L	H	L	L	H
+2020_MLa_106_2.docx	Elaboration	This is the reason why it is essential for people not only play sport, but only watch it.	H	L	L	H	L	L	H	L	L
+2020_MLa_106_2.docx	Argument	Thirdly, watching sport can motivetes fans to keep fit.	H	L	H	H	L	H	H	L	H
+2020_MLa_106_2.docx	Elaboration	When you see person in a great fit, you want to be like him.	H	L	H	H	L	H	H	L	H
+2020_MLa_106_2.docx	Elaboration	There are a lot of examples when people who adore watching games start playing it as an amateur.	H	L	H	H	H	L	H	L	H
+2020_MLa_106_2.docx	Elaboration	That is why it is reasonable to watch sports.	H	H	L	H	H	L	H	H	H
+2020_MLa_106_2.docx	Conclusion	To sum up, watching sports cannot be a waste of time.	H	H	H	H	H	H	H	H	H
+2020_MLa_106_2.docx	Conclusion	It has a lot of positive consequenses for person such as encouragement of players, self-motivation and getting useful information for your career.	H	L	H	H	L	H	H	L	H
+2020_MLa_107_2.docx	Thesis	Some people believe that viewing sports in real life or on TV is useless.	H	H	H	H	H	H	H	H	H
+2020_MLa_107_2.docx	Thesis	This essay will reflect my opinion on the given statement and show some reasons for it.	H	H	H	H	H	L	H	H	L
+2020_MLa_107_2.docx	Thesis	I strongly disagree with the fact that watching sport activities is a waste of time because most people tend to view these kinds of events due to their own interests and mental needs.	H	H	H	H	H	H	H	H	H
+2020_MLa_107_2.docx	Elaboration	This means that TV streams or live sport games are able to make their viewers more happy and healthy.	H	H	H	L	H	H	L	L	H
+2020_MLa_107_2.docx	Elaboration	For example, scientific reasearches show that the level of dofamine in a human's body increases while wathcing ceartain sport events.	H	L	H	L	L	H	H	L	H
+2020_MLa_107_2.docx	Elaboration	This leads to a better circulation of blood to the brain and heart.	L	H	H	L	H	H	L	H	H
+2020_MLa_107_2.docx	Argument	It is also a well-known fact that viewers are capable of motivating sports players.	H	H	L	H	H	L	H	H	L
+2020_MLa_107_2.docx	Elaboration	Emotional support not only makes the team feel more safe and confident, but also creates a strong amount of concetration during a sport event.	H	L	H	H	L	H	H	L	H
+2020_MLa_107_2.docx	Elaboration	For example, a TLC interview with professional tennis players has prooved that people experience a high level of responsibility in front of the audience which enables them to perform better and develop their skills in the future.	H	L	H	H	H	H	H	L	H
+2020_MLa_107_2.docx	Conclusion	In conclusion, it is worth underlining that both players and viewers are helpful for each other during sport events.	H	H	H	H	H	H	L	H	H
+2020_MLa_107_2.docx	Conclusion	Watching sports creates an envieronment that provides people with jjoy, development and positive emotions.	H	L	H	H	L	H	H	L	H
+2020_MLa_108_2.docx	Introductory	Sport is being valuable part of our life during centuries.	H	L	H	L	L	H	H	L	H
+2020_MLa_108_2.docx	Introductory	Olympic games, matches, events and e.t.c. unites a lot of people.	H	L	H	L	L	H	L	L	H
+2020_MLa_108_2.docx	Introductory	But other part of population dislike pastime watching sports events.	H	L	H	L	L	H	L	L	H
+2020_MLa_108_2.docx	Thesis	I think, that watching sports really gives a lot of fun.	H	H	L	H	H	L	H	L	H
+2020_MLa_108_2.docx	Argument	Firstly, eople are fond of live sports events an TV shows connected with sports.	H	L	H	H	L	H	H	L	H
+2020_MLa_108_2.docx	Elaboration	When fans see their favorites they feel kind of excitement and wait for their victory.	H	H	H	H	H	H	H	L	H
+2020_MLa_108_2.docx	Elaboration	This pastime works like cinema or theatre, just for enternainmet.	H	L	H	H	L	H	H	L	L
+2020_MLa_108_2.docx	Argument	The second point is that sports fans are fond of their teams ond sports favoritres.	H	L	L	H	L	L	H	L	L
+2020_MLa_108_2.docx	Elaboration	Sports stimulates them to travel (like UFC or Olympic games), to collect merch, to have new datings.	H	L	H	H	L	H	H	L	H
+2020_MLa_108_2.docx	Argument	Nonetheless, somone think, that watching sports is the waste of time.	L	L	H	L	L	H	L	L	H
+2020_MLa_108_2.docx	Elaboration	These people tell, that you are not doing sports.	L	L	H	L	L	H	H	L	H
+2020_MLa_108_2.docx	Elaboration	When you watch football match, you buy unhealthy snacks and alcohol sometimes.	L	L	L	L	L	L	L	L	L
+2020_MLa_108_2.docx	Elaboration	You are sitting on one place and harm yor health.	L	L	H	L	L	H	L	L	H
+2020_MLa_108_2.docx	Argument	Another point, that sports events don't improve your intelligence, like books, cinema or theatre.	L	L	L	L	L	L	L	L	L
+2020_MLa_108_2.docx	Elaboration	Somebody think, that watching sports is a kind of degradation.	L	L	H	H	L	H	L	L	H
+2020_MLa_108_2.docx	Argument	By the way, these points can be right in some situations, but watching of sports events does not promote harmful lifestyle as an axiom.	L	L	H	L	L	H	L	L	H
+2020_MLa_108_2.docx	Argument	This is only individual choise.	L	L	L	L	L	L	L	L	L
+2020_MLa_108_2.docx	Argument	Also, people watch sports events for fun, but a lot of them know all of the strategies in game, dates of greatest matches.	H	H	L	H	L	L	H	L	L
+2020_MLa_108_2.docx	Argument	Do you still think, that watching sports is degradation?	L	L	L	L	H	L	L	L	H
+2020_MLa_108_2.docx	Conclusion	In conclusion, all people spend their free time as they want.	L	H	L	L	H	L	L	H	L
+2020_MLa_108_2.docx	Conclusion	In each pastime we can find advantages and disadvantages, but we all can do, what we like.	L	L	H	L	L	H	L	L	H
+2020_MLa_109_2.docx	Thesis	Today there are people who belived that watching any sport is a useless time spent.	H	L	H	L	L	H	H	L	H
+2020_MLa_109_2.docx	Thesis	I complitely disagree with this opinion.	H	L	H	H	L	H	H	L	H
+2020_MLa_109_2.docx	Argument	Watching any sort games or individual competition is wonderfull way to spend your free time, by this hobby you can have a lot of profits.	H	L	H	H	L	L	H	L	L
+2020_MLa_109_2.docx	Elaboration	To begin with watching Big sport events such as Olympic Games, Grand Prix and others.	H	L	H	L	L	L	L	L	H
+2020_MLa_109_2.docx	Elaboration	The best thing is that humans, beenig hundreds of killometers away from the competition, can still suppory the team or his or her favorite athlete, feel proud of his or her country and his or her involvement in somethig great.	H	L	H	H	L	H	H	L	H
+2020_MLa_109_2.docx	Elaboration	Also watching games on TV or at live sport events often motivates people to do their favorite sport themselves.	H	H	H	H	H	H	H	H	H
+2020_MLa_109_2.docx	Argument	Moreover, watching sports together also helps you find like-minded people.	H	H	H	H	H	H	H	H	H
+2020_MLa_109_2.docx	Elaboration	Often due to the fact that people are fans of same club they became friends for life.	H	L	H	H	L	H	H	L	H
+2020_MLa_109_2.docx	Elaboration	Of course, watcing sports can also help people meet their lovers, because a shared hobby is a great Foundation for a long romantic or friendle relationsheep.	H	L	H	H	L	H	H	L	H
+2020_MLa_109_2.docx	Argument	Also watching games or competitions in other countries helps fans travel.	H	L	H	H	H	H	H	H	L
+2020_MLa_109_2.docx	Elaboration	Often they go abroad to watch their favorite srort and thus watch the world and get unforgettable experience.	H	L	H	H	L	H	H	L	H
+2020_MLa_109_2.docx	Elaboration	So thanks watching sports events a person's life became more interesting and diverse.	H	L	H	H	L	H	H	L	H
+2020_MLa_109_2.docx	Conclusion	In conclusion i would like to stress that my point of view is opposite to people who claim that watching any sport is a waste of time.	H	L	H	H	L	L	H	L	H
+2020_MLa_109_2.docx	Conclusion	I strongly belive that we get a lot of wanderfull things from watching sports.	H	L	H	H	L	H	H	L	H
+2020_MLa_110_2.docx	Introductory	Nowadays, sport has become an essential part of our everyday life.	H	H	H	H	H	H	H	H	H
+2020_MLa_110_2.docx	Introductory	Modern technologies make it possible and convinient to observe sport events both via TV and live.	H	L	H	L	L	H	L	L	H
+2020_MLa_110_2.docx	Thesis	However, some people claim that watching sports in any form is absolutely pointlees.	H	L	H	L	L	H	H	L	H
+2020_MLa_110_2.docx	Thesis	I completely disagree with this statement and here are the reasons why.	H	H	H	H	H	L	H	H	H
+2020_MLa_110_2.docx	Argument	Firstly, watching sports is an excelent way to experience strong emotions.	H	L	H	H	H	L	H	L	L
+2020_MLa_110_2.docx	Elaboration	Rooting for the favourite team as well as being disappointed for their defeat encourages human brain to produce vivid feelings.	H	L	H	H	H	H	H	L	H
+2020_MLa_110_2.docx	Elaboration	For instance, the vast majority of football fans go to the stadiums in order to get rid of stress and cheer up.	H	H	H	H	H	H	H	H	H
+2020_MLa_110_2.docx	Argument	Besides, watching sports may have a positive effect on interpersonal relationships.	H	H	H	H	H	H	H	H	L
+2020_MLa_110_2.docx	Elaboration	It has been scientifically proven that shared iterests and activities helps to break the and improve relationships among people.	H	L	H	H	L	H	H	L	H
+2020_MLa_110_2.docx	Elaboration	Thus, warching sport competittions and championships with family and friends is a great wat to get closer.	H	L	H	H	L	H	H	L	H
+2020_MLa_110_2.docx	Conclusion	On the whole, sport can be considered as something crucial these days.	H	H	H	H	H	H	H	H	H
+2020_MLa_110_2.docx	Conclusion	The opinions about watching sports on TV or live may be different; however, there are several reasons that make it worth.	H	H	H	H	H	H	H	L	H
+2020_MLa_111_2.docx	Introductory	In our century people a big choice for their leisure time, for example, watching sports events.	H	L	H	H	L	H	H	L	H
+2020_MLa_111_2.docx	Thesis	However, some people think that this hobby is ridiculose.	H	L	H	L	L	H	H	L	H
+2020_MLa_111_2.docx	Thesis	I accept that statement because it is not useful for our life, but i disagree that sport events are waste of time, they are so interesting.	H	L	H	H	L	H	H	L	H
+2020_MLa_111_2.docx	Argument	Firstly, sport events outdated, and the don't give some useful knowledges and skills, especcialy horse running.	H	L	H	L	L	L	H	L	H
+2020_MLa_111_2.docx	Elaboration	This kind of sport is not interesting, furthermore it causes passion which uselles for your financial life.	H	L	H	H	L	H	H	L	H
+2020_MLa_111_2.docx	Argument	Secondly, every man who watch sport events don't notice how life goes on.	L	L	L	L	L	L	H	L	H
+2020_MLa_111_2.docx	Elaboration	For instance, different movies like show a families where fathers come home and watch football match on TV with beer.	L	L	H	L	L	H	H	L	H
+2020_MLa_111_2.docx	Elaboration	His children hate him because dad don't ask him about school or another life benefits.	L	L	H	L	L	L	H	L	H
+2020_MLa_111_2.docx	Argument	Contrastly, when we watch some mix sports event its interesting.	H	L	L	H	L	L	H	L	L
+2020_MLa_111_2.docx	Elaboration	For example, Olympic games, this event has many types of sports, and watching of this competition is really amazing.	H	L	H	H	L	H	H	L	H
+2020_MLa_111_2.docx	Elaboration	When people watch Olympic games they feel honour of their sportsmen.	H	L	H	H	L	H	H	L	H
+2020_MLa_111_2.docx	Elaboration	These feelings cause only positive influence for nation.	L	L	H	L	L	H	L	L	H
+2020_MLa_111_2.docx	Argument	The next reason of watching sports is good is inspiration to do something, especially some figure skater Yudzuru Hanyu give the best advices for our health.	H	L	H	H	L	L	H	L	L
+2020_MLa_111_2.docx	Conclusion	Overall, i think watching sports is not bad, because we have a positive influance for us?	H	L	L	L	L	H	H	L	H
+2020_MLa_111_2.docx	Conclusion	but itis difficult try dont have passion	L	L	L	L	L	L	L	L	L
+2020_MLa_112_2.docx	Introductory	The tendency of watching such international sport activities as champions league or olympic games is growing every year.	H	L	H	H	L	H	H	L	H
+2020_MLa_112_2.docx	Introductory	They are the most popular and discussed events both on TV and on real life.	H	L	H	L	L	H	L	L	H
+2020_MLa_112_2.docx	Thesis	Some people tend to think that watching sports is a completely useless waste of time.	H	H	H	H	H	L	H	H	L
+2020_MLa_112_2.docx	Thesis	It might be true in some cases, although I completely disagree with the statement and this essay will prove my point of view.	H	H	H	H	H	L	H	H	H
+2020_MLa_112_2.docx	Argument	Firstly, watching sports makes you feel a part of the biggest society in the world,	H	L	L	H	H	L	H	L	L
+2020_MLa_112_2.docx	Elaboration	it can be taken the football players as an example: it is over than billions of football fans all over the globe, so the biggest advantage of the sports community is the multiplicity of people.	H	L	H	H	L	H	H	L	H
+2020_MLa_112_2.docx	Elaboration	You can meet a lot of relations and get an unforgettable expirience with friends might have an enormous impact on your current mood.	H	L	H	H	L	L	H	L	L
+2020_MLa_112_2.docx	Argument	Secondly, this kind of hobby might be very profitable spending of time.	H	L	H	H	H	L	H	L	L
+2020_MLa_112_2.docx	Elaboration	Idf you master the sports sphere very well in a way of investigation such as bookmaker companies you can get a lot of money benefit on it.	H	L	H	H	L	H	H	L	L
+2020_MLa_112_2.docx	Elaboration	So in the case you spend a lot of a lot of time observing some sport events of concrete sport disciplines, eventually you become an expert and you can make money on it.	H	L	H	H	L	H	H	L	H
+2020_MLa_112_2.docx	Conclusion	In conclusion, watching sports may increase the quality of your life in such spheres as financial, educational and social.	H	H	H	H	H	H	H	L	H
+2020_MLa_112_2.docx	Conclusion	Always need to take into consideration that well-educated people is in a short quantities, nowadays, so they are brilliantly appreciated today.	L	L	L	L	L	L	L	L	L
+2020_MLa_112_2.docx	Conclusion	Having an interest in the sport sphere stands you out from the crowd and make your life happier and easier.	H	L	L	H	L	L	H	L	L
+2020_MLa_113_2.docx	Introductory	Some people think that watching sports is not the best way to spend your time.	H	H	H	H	H	H	H	H	H
+2020_MLa_113_2.docx	Thesis	This essay will discuss why it could be a waste of time and how to spend it better.	H	H	H	H	H	H	H	H	H
+2020_MLa_113_2.docx	Thesis	I strongly agree, that nowadays watching a sports is not a good way to invest your time.	H	L	H	H	L	H	H	L	H
+2020_MLa_113_2.docx	Argument	The first reason is that mostly people watch sports on TV, and that leads to a huge amount of further problems, such as health issues.	H	H	H	H	H	H	H	H	H
+2020_MLa_113_2.docx	Argument	Also, most of the sport fans have anger issues when they watch sports even at live sports events.	H	L	H	H	H	H	H	H	H
+2020_MLa_113_2.docx	Elaboration	You could rather play those sports with your friends, and your health condition will be even better and mostly it even helps with the anger issues	H	L	H	H	L	H	H	L	H
+2020_MLa_113_2.docx	Argument	The second and not the most obvious reason is that watching sports often comes with the alcohol.	H	L	L	H	L	L	H	L	L
+2020_MLa_113_2.docx	Elaboration	It's common to watch sports in pubs, but people also drink aclohol at home, even when they are totally alone.	L	L	H	H	L	H	H	L	H
+2020_MLa_113_2.docx	Elaboration	Mostly they drink beer, that affect the health crucially, especially if they do it often.	H	L	H	H	L	H	H	L	H
+2020_MLa_113_2.docx	Elaboration	Unfortunately there is a strong relation to alcohol in some kind of sports, for example beer is one of the main atrributes of most footbal fans, at least when they watch it at home or at pubs.	H	L	H	H	L	H	H	L	H
+2020_MLa_113_2.docx	Argument	And once again, when you participate in any kind of sports, you won't drink any alcohol for sure	L	H	H	L	H	H	L	H	H
+2020_MLa_113_2.docx	Conclusion	In conclusion, I want to say that watching sports could affect you not that bad if you do it healthy and rarely.	L	H	L	L	L	L	L	L	L
+2020_MLa_113_2.docx	Conclusion	However, doing sports instead of watching it would be a much better investment of your time.	H	H	H	H	H	H	H	H	H
+2020_MLa_114_2.docx	Introductory	Sports has become one of the most controversial topic over 5 last years.	H	L	H	L	L	H	H	L	H
+2020_MLa_114_2.docx	Introductory	People often discuss behavior of fans and honesty of some rules at sports.	L	L	H	L	L	H	L	L	H
+2020_MLa_114_2.docx	Thesis	Some people believe that watching sports live or on TV is the last cause.	H	L	L	H	L	L	H	L	H
+2020_MLa_114_2.docx	Thesis	I agree with this opinion.	H	H	H	H	H	L	H	H	H
+2020_MLa_114_2.docx	Thesis	In my essay i will provide arguments for my point of view.	H	L	L	L	L	L	H	L	H
+2020_MLa_114_2.docx	Argument	First of all, watching sports is a time consuming action.	H	H	L	H	H	L	H	H	L
+2020_MLa_114_2.docx	Elaboration	People spend evenings at football matches or hockey rinks rooting for their teams.	H	H	H	H	H	H	H	H	H
+2020_MLa_114_2.docx	Elaboration	Some sport matches are longer than 90 minutes and we are not speaking about different cups and championships.	H	H	H	H	H	H	H	H	H
+2020_MLa_114_2.docx	Elaboration	Some fans can be immersed into the contest for a week or longer.	L	H	H	H	H	H	H	L	H
+2020_MLa_114_2.docx	Elaboration	Not only does they simply loose they time, but they also loose possibilities to be productive.	H	L	H	H	L	H	H	L	H
+2020_MLa_114_2.docx	Elaboration	Instead of looking at ice skaters or table tennis players sport fans could read some books or take some interesting educational courses.	H	H	H	H	H	H	H	L	L
+2020_MLa_114_2.docx	Argument	Secondly, watching TV as well as attending live sports events can be dangerous.	H	H	L	H	H	L	H	H	L
+2020_MLa_114_2.docx	Elaboration	We all know numerous tragic events that happened at sports venues.	H	H	H	H	H	H	H	H	H
+2020_MLa_114_2.docx	Elaboration	Some fans had thrown fireworks at the crowd, terrorists had taken the stadiums and etc.	H	L	H	H	L	H	H	L	H
+2020_MLa_114_2.docx	Elaboration	Moreover, the most frightening thing that can happen at the venue is the panic.	L	H	H	H	H	H	H	H	H
+2020_MLa_114_2.docx	Elaboration	Due to panic many people were crushed by the crowd at sports centers.	H	H	H	H	H	H	H	H	H
+2020_MLa_114_2.docx	Elaboration	Watching sports at home also not the safest thing, because it can deal a huge damage to your eyes.	H	L	L	H	L	L	H	L	H
+2020_MLa_114_2.docx	Elaboration	Also, while people are watching sports, they can feel stress and anger that can be harmful for their mental heath.	H	L	H	H	L	H	H	L	H
+2020_MLa_114_2.docx	Introductory	Overall, different people can have different points of view and my is just an opinion.	L	H	L	L	L	L	L	L	L
+2020_MLa_114_2.docx	Conclusion	To sum up, I want to say that watching sports is not a really productive action.	H	H	H	H	H	L	H	H	L
+2020_MLa_114_2.docx	Conclusion	It can have some risks as wall.	L	L	L	H	L	L	L	L	H
+2020_MLa_114_2.docx	Conclusion	I hope that people will find more sufficient ways to spend their free time.	H	H	L	H	H	L	H	L	L
+2020_MLa_115_2_.docx	Thesis	Watching sports, either in real life or on a TV screen, is considered by some people to be a waste of time, while others argue that it is quite the opposite.	H	H	H	H	H	H	H	H	H
+2020_MLa_115_2_.docx	Thesis	In my personal opinion, both sides are right in their own ways.	H	H	H	H	H	L	H	H	L
+2020_MLa_115_2_.docx	Argument	On the one hand, watching sports is a popular way to spend time sitting in front of the TV or in the arena,	H	H	H	H	H	L	L	L	H
+2020_MLa_115_2_.docx	Elaboration	which leads people to argue that the time wasted sitting could be spent being more active and healthy, especially considering how many people prefer eating snacks while being entertained.	H	L	H	H	L	H	H	L	H
+2020_MLa_115_2_.docx	Elaboration	I have to agree with that sentiment - sitting in one place and spectating the teams for hours while consuming some really unhealthy products like chips, beers and popcorn can lead to a lot of problems with your body, mainly heart, stomach and muscles.	H	L	H	H	H	H	H	H	H
+2020_MLa_115_2_.docx	Elaboration	And considering that nowadays most sports events are being watched on TV, computers and phones, people's eyesight is suffering as well.	H	L	H	L	H	H	H	H	H
+2020_MLa_115_2_.docx	Elaboration	If sports and activities are a big part of your life, participating in sports yourself can be considered a more productive and fun way to spend time.	H	H	H	H	H	L	H	H	H
+2020_MLa_115_2_.docx	Argument	On the other hand, watching sports and vouching for the team of choice brings fans a lot of happines, which for a lot of people means that the time spent was worth it.	H	L	H	H	L	H	H	L	H
+2020_MLa_115_2_.docx	Elaboration	In my opinion, this way of thinking is also right.	H	H	H	L	H	L	L	H	L
+2020_MLa_115_2_.docx	Elaboration	I believe that anything that brings people joy should not be considered a waste of time, no matter how unproductive it is for the others.	H	H	H	H	H	L	H	L	H
+2020_MLa_115_2_.docx	Elaboration	Not to mention, sport events always bring people together, either in sadness over a loss or happiness over a victory.	H	H	H	H	H	H	H	H	H
+2020_MLa_115_2_.docx	Elaboration	And time spent with your family, friends or even sometimes strangers should not be considered a waste by any accounts.	H	H	H	H	H	H	H	H	H
+2020_MLa_115_2_.docx	Argument	Also for a lot of people simply watching sport is the only way to have sport in their lives at all -	H	L	H	H	L	L	H	L	H
+2020_MLa_115_2_.docx	Elaboration	disabilities, jobs, families and inability to access any sports facilities prevent people from participating in sport in real life.	L	L	H	H	L	H	H	L	H
+2020_MLa_115_2_.docx	Elaboration	For them there is no other choice than to "waste" time speculating the events.	H	L	H	H	L	H	H	L	H
+2020_MLa_115_2_.docx	Conclusion	In the end, seeing the time spent watching sports as either a waste of time or its good use comes from people's values in life - productivity and achievments or relationships and joy.	H	L	H	H	L	H	H	L	H
+2020_MLa_116_2.docx	Thesis	Nowadays watching sports on television or at live sports events has become extremely popular among people around the world.	H	H	H	H	H	H	H	H	H
+2020_MLa_116_2.docx	Thesis	However, some people consider that it is a total waist of time.	H	L	H	L	L	H	H	L	H
+2020_MLa_116_2.docx	Thesis	Personally I would disagree, due to the fact that watching sports could be a great hobby or a way to spend your leasure time.	H	L	H	H	L	H	H	L	H
+2020_MLa_116_2.docx	Argument	First of all, I would note that watching sports or visiting sport events could become a favourite activity.	H	H	H	H	H	H	H	H	H
+2020_MLa_116_2.docx	Elaboration	Additionally, it could help to find new aquaintances and friends, who would share your interests in sports.	H	L	H	H	L	H	H	L	H
+2020_MLa_116_2.docx	Argument	Secondly, It can give you an opportunity to travel more, if an event takes place in other countries.	H	L	H	H	L	L	H	L	L
+2020_MLa_116_2.docx	Elaboration	Moreover, you could learn more about sports in othes countries and certainly more about their culture.	H	L	H	H	L	H	H	L	H
+2020_MLa_116_2.docx	Argument	Thirdly, besides that learning more about sports would undoubtedly broaden your horzons and bring up new connections.	H	L	H	H	L	H	H	L	H
+2020_MLa_116_2.docx	Conclusion	All in all, I would say that in my opinion watching sports is a great activity for everyone, no matter what your age or gender is.	H	H	L	H	H	L	H	H	H
+2020_MLa_117_2_.docx	Thesis	Some people believe that watching sports on TV or going to some sports matches are useless.	H	H	H	H	H	H	H	H	H
+2020_MLa_117_2_.docx	Thesis	However there is an opposite opinion.	L	H	H	L	H	H	L	L	H
+2020_MLa_117_2_.docx	Thesis	I definitely agree with the first point of view.	H	H	L	H	H	L	H	H	L
+2020_MLa_117_2_.docx	Thesis	Futher i will explain why am i thinking so..	H	L	H	L	L	L	H	L	H
+2020_MLa_117_2_.docx	Argument	First of all, if people ar watching sports on TV, it can causes some problems with their health.	H	L	L	H	L	L	H	L	L
+2020_MLa_117_2_.docx	Elaboration	For example, all kinds of sports are mostly long, they can take up to 3 hours.	H	L	H	L	L	L	H	H	H
+2020_MLa_117_2_.docx	Elaboration	Such long period of time sitting on a couch in front of TV can cause problems with eyes and back.	H	L	H	H	H	H	H	L	H
+2020_MLa_117_2_.docx	Elaboration	Eyes can dry and start hurting, and moreover the person can worse the ability to see.	H	L	H	H	L	H	H	L	H
+2020_MLa_117_2_.docx	Elaboration	Sitting for 2 or 3 hours can also hurt man's back because he will watch TV and not the way he is sitting.	H	L	L	H	H	H	H	L	L
+2020_MLa_117_2_.docx	Argument	Talking about visiting live sports event for watching a match, is not very useful too.	H	L	L	H	L	L	H	L	L
+2020_MLa_117_2_.docx	Elaboration	On such events you can meet a lot of people, who are very anxious about the match.	L	L	H	L	H	H	H	H	H
+2020_MLa_117_2_.docx	Elaboration	Such people will not think about others: about their private space, about their fellings and so on.	L	L	H	L	L	H	H	L	H
+2020_MLa_117_2_.docx	Argument	One more reason not to go to such events just to watch the play is the level of sound.	H	H	L	H	H	L	H	H	L
+2020_MLa_117_2_.docx	Elaboration	All people at these events will be screaming so loud that a man cannot hear what his friend, who is sitting next to him, is saying.	H	H	H	H	H	H	H	H	H
+2020_MLa_117_2_.docx	Elaboration	If a person takes part in screaming with others it can cost him a sore and hurting throat.	H	L	H	H	H	H	H	L	H
+2020_MLa_117_2_.docx	Elaboration	Moreover the weather on the day of such event can be awful.	L	L	L	L	H	L	H	L	L
+2020_MLa_117_2_.docx	Elaboration	For example, it can start raining and the wind will be very strong.	L	H	H	L	H	H	L	H	H
+2020_MLa_117_2_.docx	Elaboration	It can also cause some problems with health: person can catch cold or some different infection.	H	L	H	H	L	H	H	L	L
+2020_MLa_117_2_.docx	Conclusion	In conclusion, i would like to say that however there are two different opinions, which can both be accepted, i truly belive that watching sports on TV or at some sport events are useless.	H	L	L	H	L	L	H	L	L
+2020_MLa_118_2.docx	Introductory	It's believed that spending time at watching TV sport programmes is not profitable.	H	L	H	H	H	H	H	L	H
+2020_MLa_118_2.docx	Introductory	However, some people say it can develop your skills and techniques.	H	H	H	L	H	H	L	H	H
+2020_MLa_118_2.docx	Thesis	As for me, I suppose that watching sports via TV won't help you become a professional at sport.	H	H	H	H	H	H	H	H	H
+2020_MLa_118_2.docx	Thesis	Moreover, sport events are not very interesting to be seen through television channels.	H	H	H	H	H	H	H	H	H
+2020_MLa_118_2.docx	Argument	people say that you can learn a lot from sport programmes.	L	H	H	L	L	L	L	L	H
+2020_MLa_118_2.docx	Elaboration	Firstly, as you watch the play, you start to remember all the practice of the best sportsmen in the world.	L	L	H	L	H	H	H	H	H
+2020_MLa_118_2.docx	Elaboration	Secondly, if you listen to the words during the recording of the sport event, you learn and repeat the main rules.	L	H	H	H	H	H	L	H	H
+2020_MLa_118_2.docx	Elaboration	Besides, you don't have to spend money on the tickets as the translation is free on TV channels.	L	H	H	L	H	L	L	L	L
+2020_MLa_118_2.docx	Argument	But I disagree with this opinion as watching sport programmes is not a striking thing for me.	L	L	L	L	H	L	L	H	L
+2020_MLa_118_2.docx	Argument	In addition, tickets are not very expensive.	L	H	L	L	H	L	L	H	L
+2020_MLa_118_2.docx	Elaboration	However, it's agreed that you won't become the World champion because of the sitting on the sofa and watching sports on TV.	H	L	L	L	H	L	H	L	L
+2020_MLa_118_2.docx	Elaboration	You need to visit a gym, to train a lot and to take part in numerous competitions to catch a success in this sphere.	H	L	H	L	L	H	H	L	H
+2020_MLa_118_2.docx	Argument	Besides, it's much more attractive to visit the play in the real life than to watch it at home for many reasons.	H	L	L	H	H	L	L	L	L
+2020_MLa_118_2.docx	Elaboration	The first reason is that fascinating feelings are provided at the same time you see the players who are not far from you.	H	L	H	H	H	H	H	L	H
+2020_MLa_118_2.docx	Elaboration	Also, you can be aware of the everything happening at the stadium.	L	L	H	L	L	H	H	L	H
+2020_MLa_118_2.docx	Elaboration	If you watch the sport programme, you can see only those things that the operator wants to record.	H	H	H	H	H	H	H	L	H
+2020_MLa_118_2.docx	Elaboration	I agree with this pont of view as I'm fond of visiting plays and competitions in real life.	H	L	H	H	L	L	H	L	L
+2020_MLa_118_2.docx	Elaboration	It's a majestic experience to be there.	H	H	H	H	H	H	H	H	H
+2020_MLa_118_2.docx	Conclusion	In conclusion, I' d like to say that sport is an essential part of our life.	L	H	L	L	H	L	L	H	L
+2020_MLa_118_2.docx	Conclusion	In my opinion, watching it at home is not as much striking as watching it at the stadium.	H	H	H	H	H	H	H	H	H
+2020_MLa_118_2.docx	Conclusion	You need to experience this activity in real life to feel all the dignities.	H	L	H	H	L	H	H	L	H
+2020_MLa_119_2_.docx	Thesis	There is an opinion that spending free time watching a certain sport simplykills precious time.	H	L	H	L	L	H	H	L	H
+2020_MLa_119_2_.docx	Thesis	But i strongly disagree with such a statement, since my opinion, this is a very useful pastine, which has many advantanges of its own.	H	L	H	H	L	H	H	L	H
+2020_MLa_119_2_.docx	Argument	Let's take for consideration the fact that watching sports in your free time can teach you a few things, like collaboration and teamwork.	H	H	H	H	H	H	H	H	H
+2020_MLa_119_2_.docx	Elaboration	If you watch sports teams, you can see how they demonstrate an amazing team work and spirit that can be applies in everyday situations, as well as at work and study.	H	L	H	H	L	H	H	L	H
+2020_MLa_119_2_.docx	Elaboration	In addition, watching the game, we gain new knowledge without leaving the couch.	H	H	H	H	H	H	H	H	H
+2020_MLa_119_2_.docx	Elaboration	Moreover, you can share watching sports with your lovely family and closed friends by killibg two birds with one stone - to spend time with closed people and enjoy a good game.	H	L	H	H	L	H	H	L	H
+2020_MLa_119_2_.docx	Elaboration	And even better, when you all are rooting for one favorite team or sportsman or woman, it makes you very close.	H	L	H	H	H	H	H	L	H
+2020_MLa_119_2_.docx	Conclusion	So we concluse that watching sports doesn't have negative things, but only provides many benefits.	H	L	H	H	L	L	H	L	H
+2020_MLa_119_2_.docx	Argument	Also a huge plus is that sports fans have favorite sportsman/woman.	H	L	H	L	L	L	L	L	H
+2020_MLa_119_2_.docx	Elaboration	They admire and imitate them.	H	H	H	H	H	H	H	H	H
+2020_MLa_119_2_.docx	Elaboration	It's a big motivation for them to become better and healthier.	H	H	H	L	H	H	H	H	H
+2020_MLa_119_2_.docx	Elaboration	And how can this not please, because now there are much more healthy people, runners, people, who just do exercises on the street.	H	L	H	L	L	H	L	L	H
+2020_MLa_119_2_.docx	Conclusion	I believe that this is a consequence of people watching sports.	L	H	L	L	H	H	L	H	H
+2020_MLa_11_2.docx	Introductory material	There are people saying that watching sports events on TV or at live sports events is a waste of time.	H	H	H	H	H	H	H	H	H
+2020_MLa_11_2.docx	Thesis	I totally disagree with this opinion and think that spending time watching sports on television or live can be entertaining and useful.	H	H	H	H	H	H	H	H	H
+2020_MLa_11_2.docx	Argument	Firstly, this kind of activity helps to gather people together in order to watch and support favourite teams or athletes.	H	H	H	H	H	H	H	H	H
+2020_MLa_11_2.docx	Elaboration	No matter where television feeds will be watched either at home or at the bar this activity helps to build relationships through supporting teams and discussions them.	H	L	H	H	L	H	H	L	H
+2020_MLa_11_2.docx	Elaboration	Moreover, without a doubt watching live sports events together with family can be kind of tradition.	H	H	H	H	H	H	H	H	H
+2020_MLa_11_2.docx	Elaboration	For example, my family has a tradition to watch biathlon together in winter.	H	H	H	H	H	H	H	H	H
+2020_MLa_11_2.docx	Elaboration	We meet in the evening one hour before a TV translation and prepare to watch our favourite winter sport.	H	L	H	H	L	H	H	L	H
+2020_MLa_11_2.docx	Elaboration	Thus, we sufficiently spend time together communicating with each other while watching TV.	H	L	H	H	H	H	H	H	H
+2020_MLa_11_2.docx	Argument	Secondly, watching live sports events at stadium gives outstanding emotions.	H	L	L	H	L	L	H	L	L
+2020_MLa_11_2.docx	Elaboration	Even though one ticket to live sport event can be too expensive and it can be used only once unlike TV, TV translation does not give the feelings that gives live sports events.	H	L	H	H	L	H	H	L	H
+2020_MLa_11_2.docx	Elaboration	Watching sports events at stadium gives an opportunity to see favourite athletes and probably to make photo with him.	H	L	H	H	L	H	H	L	H
+2020_MLa_11_2.docx	Elaboration	Furthermore, there is unforgettable emotions when your team wins.	H	L	H	H	L	H	H	L	L
+2020_MLa_11_2.docx	Elaboration	For instance, I usually go to hockey matches with my brother and we support one team, we really like this activity and really enjoy the atmosphere at the stadium.	H	L	H	H	L	H	H	L	H
+2020_MLa_11_2.docx	Conclusion	Finally, I think watching sports is not a waste of time and it can be really useful, because this activity gathers people together and gives outstanding emotions.	H	H	H	H	H	H	H	H	H
+2020_MLa_120_2_.docx	Introductory	In this day and age it is a well-known fact that sports is en essential part of our everyday life and we cannot imagine our routine without it.	H	L	H	H	L	H	H	L	H
+2020_MLa_120_2_.docx	Thesis	Some people believe that people shoud not spend their time by watching sports, others, however, argued that they ought to watch it.	H	L	H	H	L	H	H	L	H
+2020_MLa_120_2_.docx	Thesis	This essay will examine the adavantages and disdvantages of watching sports.	H	L	H	H	L	H	H	L	H
+2020_MLa_120_2_.docx	Argument	Firstiy, sports competitions and games between different countries unites people an makes them more loved in their countries.	H	L	H	H	L	L	L	L	H
+2020_MLa_120_2_.docx	Support	I mean that during sports competitios the patriotic spirit is appeared amount of people in one country.	H	L	H	H	L	H	H	L	H
+2020_MLa_120_2_.docx	Support	For example, everyone knows about footdall championship, where people uniting by nervesing about the results of these competitions.	H	L	H	H	L	H	H	L	H
+2020_MLa_120_2_.docx	Support	Moreover, watching sports is very important because it formulate peoples' attitude to sports activities.	H	L	H	H	L	H	H	L	H
+2020_MLa_120_2_.docx	Support	In other words, some people will go doing some sports after watching it on the For inctance, many children attend sports sections because of parents, preferancies in sports, translation on the TV.	L	L	H	L	L	H	L	L	H
+2020_MLa_120_2_.docx	Argument	However, watching sports has some major disadvantages like it takes a lot of time and it is a waste of money.	H	H	H	H	H	L	L	L	H
+2020_MLa_120_2_.docx	Support	Firstly, sports competitions take too much time.	H	H	H	H	H	H	H	H	H
+2020_MLa_120_2_.docx	Support	I mean that these competitions are translaiting every day on the TV and true fans prefer watch it all time, rather then doing more important things.	H	L	H	H	L	H	H	L	H
+2020_MLa_120_2_.docx	Support	Furthetmore, tickets are not so cheap as on the other ways of entertainment.	L	L	L	H	L	L	H	L	L
+2020_MLa_120_2_.docx	Support	In other words, if a person wants to ettend some life sports event, he or she will pay valuable amount of money for a ticket.	L	L	H	H	L	H	H	L	H
+2020_MLa_120_2_.docx	Support	For example, average price per one tichet on the competition is 3000 rubls..	L	L	H	H	L	H	H	L	H
+2020_MLa_120_2_.docx	Conclusion	All things considered, I would like to say that although watching sports have sertain negative sights like taking a lot of time and wasting money, it has an extremely positive impact on potriotical spirit of people and their health.	H	L	L	L	L	L	L	L	L
+2020_MLa_120_2_.docx	Conclusion	I believe that these benefits of watching sports outweight its drawbacks.	H	L	H	L	L	H	L	L	H
+2020_MLa_121_2_.docx	Thesis	Since ancient times sport has been one of most lovely ways to spend the time: to watch or participate, but some people are considered that it is absolutely useless.	H	L	H	L	L	H	H	L	H
+2020_MLa_121_2_.docx	Thesis	I am convinsed that it is not the most preferable way of spending time, but it is not meaningless and negative.	H	L	H	H	L	H	H	L	H
+2020_MLa_121_2_.docx	Argument	On the one hand, watching sports is just about sitting or standing and shouting sometimes.	L	H	L	L	H	H	H	H	H
+2020_MLa_121_2_.docx	Elaboration	It is clear that lots of people enjoy watching sports just because they do not want to do anything else like cleaning the flat or house or talking to wife and kinds.	H	L	H	H	L	H	H	L	H
+2020_MLa_121_2_.docx	Elaboration	These people sometimes are so tired of their work and routine life and want just to relax or to sleep listening to the sport commentator.	H	H	H	L	H	H	H	H	H
+2020_MLa_121_2_.docx	Argument	On the other hand, such way of spending time like watching sports can give bright emotions and wonderful memories, it gives an opportunity to get rid of stress and to relax, to get to know some new information.	H	L	H	H	L	H	H	L	H
+2020_MLa_121_2_.docx	Elaboration	For example, people often watch the game or match with their freinds, they talk a lot, laugh and discuss noticeable news from sport world or from other spheres and fields.	H	L	H	H	L	H	H	L	H
+2020_MLa_121_2_.docx	Elaboration	Besides, watching sports some persons can probably understand that they are interested in them and want not only to be a spectator, but to try to participate, so watching sports is useful for health too.	H	L	H	H	L	H	H	L	H
+2020_MLa_121_2_.docx	Conclusion	To sum up, watching sports on TV or at the stadium is rather a controversial spending of time.	H	H	H	H	L	H	H	H	H
+2020_MLa_121_2_.docx	Conclusion	From my point of view, it can give many useful positive effects on some sides of peoples life.	H	L	H	H	L	H	H	L	H
+2020_MLa_122_2.docx	Introductory	Nowadays the role of sport in people's life is rather a controversial issue.	H	H	H	H	H	H	H	H	H
+2020_MLa_122_2.docx	Thesis	This essay absolutely agrees with the view that watching sports is not useful, because it is not helpful for people's life and people can do other important things instead of it.	H	L	H	H	H	H	H	L	H
+2020_MLa_122_2.docx	Argument	It is known that doing sports is much better than just watching it.	H	H	H	H	H	H	H	H	H
+2020_MLa_122_2.docx	Elaboration	For example, in early childhood it is very important to go to the doctor every month or two and every doctor says that baby needs some activities, he advises mothers to take them to some sports club where the health of children will be improved.	L	L	H	L	L	L	L	L	L
+2020_MLa_122_2.docx	Elaboration	Instead of wasting time watching sports either on TV or at live sports event people should do more useful things.	H	H	L	H	L	L	H	H	L
+2020_MLa_122_2.docx	Elaboration	When you watch something, you cannot do anything else, because your brain is busy at this moment and you follow the game and this time is useless as you just receive positive emotions.	H	L	H	H	L	H	H	L	H
+2020_MLa_122_2.docx	Elaboration	There are a lot of different activities that allow people to relax and to make their lives better.	H	H	L	H	H	L	H	H	L
+2020_MLa_122_2.docx	Elaboration	For example, reading.	H	L	H	L	L	L	H	L	L
+2020_MLa_122_2.docx	Elaboration	When you read something, you relax and improve your knowledge and skills in some spheres at the same time, it is much more useful and helpful for people.	H	L	H	L	L	L	H	L	H
+2020_MLa_122_2.docx	Argument	When people do exercises, they become healthier and they can improve different opportunities of their bodies, doing activities helps children to grow in a right way and to develop their coordination.	L	L	L	L	L	L	L	L	L
+2020_MLa_122_2.docx	Conclusion	To conclude, there are different opinions on the question whether watching sports is a waste of time or not.	L	H	L	L	H	L	L	H	L
+2020_MLa_122_2.docx	Conclusion	I am absolutely sure that there are a lot of things in our life that are more important, interesting and useful than watching sports.	H	H	H	H	H	H	H	H	H
+2020_MLa_123_2_.docx	Introductory	There are group of people who clame that spending time on virtual sports is absoulutly useless.	L	L	H	L	L	H	L	L	H
+2020_MLa_123_2_.docx	Introductory	But there are also other people that prefer spend their time such way.	L	L	H	L	L	H	L	L	H
+2020_MLa_123_2_.docx	Introductory	In this essay I will write about my opinion oh this very interesting theme.	L	L	L	L	L	L	L	L	L
+2020_MLa_123_2_.docx	Introductory	Seven billion people on the Earth and seven billion different opinions.	L	L	L	L	L	L	L	H	L
+2020_MLa_123_2_.docx	Introductory	Both have it's proa and cons.	L	L	L	L	L	L	L	L	L
+2020_MLa_123_2_.docx	Argument	On the one hand we have opportunity to go to the stadium, feel more deep emotions and get new memory.	L	L	H	L	L	L	L	L	L
+2020_MLa_123_2_.docx	Elaboration	The majority of true lovers of sports would like to visit such event.	L	L	H	H	H	H	L	L	H
+2020_MLa_123_2_.docx	Elaboration	It could be caused by several reasons.	L	H	L	L	H	L	L	H	L
+2020_MLa_123_2_.docx	Elaboration	For example, a lot of people see their future connected with sports, they are inspired by it and have aim to look and be like their idol.	L	L	H	L	L	L	L	L	L
+2020_MLa_123_2_.docx	Argument	The second reason is a desire to make your own life more interesting and full of breathtaking moments to have more stories to tell in the future.	L	H	L	L	H	L	L	H	L
+2020_MLa_123_2_.docx	Argument	Also such events help people to find friends.	L	H	L	L	H	L	L	H	L
+2020_MLa_123_2_.docx	Argument	On the other hand we can save our money on tickets, time on riding to the stadium from home and spend time in more relaxed atmosphere and so on.	L	L	L	L	L	L	L	L	L
+2020_MLa_123_2_.docx	Elaboration	This way can teach people something new because when you do not disturbed by other emotions, people and when you can see the whole situation on TV, you see more than people on a large stadium.	L	L	H	H	L	H	L	L	L
+2020_MLa_123_2_.docx	Elaboration	It is very useful for analysing the game and strategy of teams.	L	H	H	L	H	H	L	H	H
+2020_MLa_123_2_.docx	Elaboration	Also, wathcing sports on TV and live translations can give an opportunity to spend time with family and friends, when one of them is ill or pregnant or already have a children or pet and do not have a possibility to leave them with somebody.	H	L	L	L	L	L	L	L	L
+2020_MLa_123_2_.docx	Argument	And the last reason that I will notice is that nowadays during coronavirus pandemic, it is very scary and dangerous to visit such overcrowded events.	L	L	H	L	L	L	L	L	L
+2020_MLa_123_2_.docx	Conclusion	In concluslusion, people should spend their time as they want.	L	L	L	L	L	L	L	L	L
+2020_MLa_124_2.docx	Introductory	Sport has always been not only a mean of keeping yourself fit and being active, it is also an entertainment that attracts a lot of people, who watch different sport events on television or visit them themselves.	H	L	H	H	L	H	H	L	H
+2020_MLa_124_2.docx	Thesis	However there is a belief that such time spending is useless.	H	L	H	L	L	H	H	L	H
+2020_MLa_124_2.docx	Thesis	I do not agree with such statement.	H	H	H	L	L	H	H	H	H
+2020_MLa_124_2.docx	Argument	There are a lot of people who are keen on sport but can not take part in such activities for various reasons, like health or lack of facilities in the area.	H	H	L	H	H	L	H	H	L
+2020_MLa_124_2.docx	Elaboration	For such people, it is the only way of feeling the same excitement as if they were playing or participating in some game themselves.	H	H	H	H	H	H	H	H	H
+2020_MLa_124_2.docx	Elaboration	They also can transfer their intrest in a slightly different area of involvement.	H	L	H	H	L	L	H	L	H
+2020_MLa_124_2.docx	Elaboration	Spectators are very likely to gain intrest in learning different moves, some techniques and at some point this can become their proffesional interest.	H	L	H	H	L	H	H	L	H
+2020_MLa_124_2.docx	Elaboration	There is a fact which shows that most of successful referees and commentators were huge fans of sport, so the opportunity to watch sport can become something professional and even provide an income.	H	H	H	H	H	H	H	L	H
+2020_MLa_124_2.docx	Argument	It is undoubtable that an enourmous amount of people watch sport, and keeping up with majority's interest can help people to sociolize and feel not excluded from the group.	H	L	H	H	L	H	H	L	H
+2020_MLa_124_2.docx	Elaboration	Such sense of belonging is vital for human beings and it is evident that creating communities, like a sporting one, can provide this.	H	H	H	H	H	H	H	H	H
+2020_MLa_124_2.docx	Elaboration	For example, everybody knows various football clubs exist, and their members are united by the same ideas and the same interest and most of their free time is spended together, usually by watching matches on TV in pubs or community house if there is one.	H	L	H	H	L	H	H	L	H
+2020_MLa_124_2.docx	Elaboration	People enter these club because of the welcoming atmosphere there and acception by co-members, and developing mutual affection for sport will only strengthens thier bonds and minimise the feeling of lonelyness.	H	L	H	H	L	H	H	L	H
+2020_MLa_124_2.docx	Conclusion	In conclusion, I stick to the opinion that watching sports is an interesting and somehow profitable time spending for it can become a true hobby or an area of professional interest, alongside with providing a membership to a group of people with same passions.	H	L	H	H	L	H	H	L	H
+2020_MLa_125_2.docx	Thesis	Some people believe that watching any sport events in any variants is a completely useless way to spend your free time.	H	H	H	H	H	H	H	L	H
+2020_MLa_125_2.docx	Thesis	I strongly disagree with this statement.	H	H	H	L	H	H	H	H	H
+2020_MLa_125_2.docx	Argument	First of all, watching any kind of tournament or sport competition is granting the observer an enourmous amount of emotions, usually the good ones.	H	L	L	H	L	L	H	L	L
+2020_MLa_125_2.docx	Elaboration	The viewer is absolutely astonished by the match, so he can forget about any unpleasant moments, reduce the stress from work or everyday chores.	H	H	H	H	H	H	H	H	H
+2020_MLa_125_2.docx	Elaboration	The great happiness, joy and pride overwhelm the football fan when his national team scores a goal in the world championship.	H	H	H	H	H	H	H	H	L
+2020_MLa_125_2.docx	Argument	At the same time some people find watching sports not very attractive.	L	H	L	L	H	L	L	H	H
+2020_MLa_125_2.docx	Argument	The main argument for this point of view is that it is possible to spend free time in a lot of more usefull ways, for example, doing sports on your own.	L	H	H	L	L	H	L	L	H
+2020_MLa_125_2.docx	Elaboration	This will help you to get fit and will lead to improvement in your health, while sitting either on your sofa or at the stadium without any physical activities will be only harmful.	H	L	H	L	H	H	H	H	H
+2020_MLa_125_2.docx	Elaboration	In addition sport fans often like to eat some unhealthy snacks, for example a pack of chips, and may be even drink a bottle of beer, which is a right way to get some illnesses like obesity.	L	L	H	L	L	H	L	L	H
+2020_MLa_125_2.docx	Argument	However i can not fully share this opinion.	L	L	L	L	L	L	L	L	L
+2020_MLa_125_2.docx	Argument	As i think, watching sport events is encouraging the viewer to start doing sports on their own.	H	L	L	H	L	L	H	L	L
+2020_MLa_125_2.docx	Elaboration	The fame of world-known football players encourage millions of children to play with their pals, train and improve their skill, visit sport-schools or fitness centeres.	H	L	H	H	L	H	H	L	H
+2020_MLa_125_2.docx	Elaboration	And this statement is true not only about the kids, but teenagers, students and adults as well.	H	H	H	H	H	H	H	H	H
+2020_MLa_125_2.docx	Conclusion	In conclusion of this essay, i would like to say that sport tournaments and championships make our life brighter, fulfill it with the positive emotions and encourage people all over the world doing sports.	H	L	L	H	L	L	H	L	L
+2020_MLa_126_2.docx	Thesis	There is an opinion among some groups of people that watching different sports events is an absolute waste of time.	H	H	H	H	H	H	H	H	H
+2020_MLa_126_2.docx	Thesis	I am absolutely of another mind towards this quastion.	H	L	H	H	L	L	H	L	L
+2020_MLa_126_2.docx	Thesis	In this essay I am going to explain my opinion.	H	H	H	L	H	L	H	H	L
+2020_MLa_126_2.docx	Argument	There are some clear reasons for saying that watching sports events is not only interesting but educational activity.	H	H	L	H	L	L	H	L	L
+2020_MLa_126_2.docx	Elaboration	For instance, sports events broaden your horizones actually like any other fenomena in culture.	H	L	H	H	L	H	H	L	H
+2020_MLa_126_2.docx	Elaboration	Sports industry is connected to different countries and cultures.	H	H	H	H	H	H	H	H	H
+2020_MLa_126_2.docx	Elaboration	While watching sports events we get acquinted with our happening history, with other cultures, people of other nationalities.	H	L	H	H	L	H	H	L	H
+2020_MLa_126_2.docx	Elaboration	Sport helps to understand many world policitical situations.	H	L	H	H	L	H	H	L	H
+2020_MLa_126_2.docx	Argument	Second reason is that sport itself is one of the crucial parts of our lives.	H	H	H	H	H	H	H	L	H
+2020_MLa_126_2.docx	Elaboration	It is necessary to speak about sport, to watch sports shows because this provides people with the beauty of this sphere of life and pleasure they can get doing sports.	H	L	H	H	H	H	H	L	H
+2020_MLa_126_2.docx	Elaboration	This can lead to healthy generation that wants to be in a good shape.	H	L	H	L	L	H	H	L	H
+2020_MLa_126_2.docx	Argument	Those who think that watching sports is a waste of time may say that this process does not provide people with new information they can use in their lives unlike different intellectual kinds of activities that help us to get new skills which will help us in career.	H	L	L	L	L	L	L	L	L
+2020_MLa_126_2.docx	Elaboration	Sports events in their opinion are only about pleasure in the moment.	H	H	H	H	H	H	H	H	H
+2020_MLa_126_2.docx	Conclusion	All in all, I believe that sport is wonderfull part of life that must remain popular in different ways and an ability to watch sports on TV is a big advantage of modern world.	H	L	H	H	L	L	H	L	H
+2020_MLa_127_2.docx	Introductory	Nowadays, there is a contraversial point about watching sports.	H	L	H	H	L	H	H	L	H
+2020_MLa_127_2.docx	Introductory	Some people claim that it is totally useless, while others believe that being fan of sport is not a waste of time at all.	H	H	H	H	H	H	H	L	H
+2020_MLa_127_2.docx	Thesis	In my opinion, watching sports is useful and has a lot of aspects which are good for society.	H	H	H	H	H	H	H	H	H
+2020_MLa_127_2.docx	Argument	Firstly, watching sports is the great motivation for people to improve themselves, especially for children.	H	L	H	H	H	H	H	L	H
+2020_MLa_127_2.docx	Elaboration	People see the athelets with perfect bodies and skills and they want to be like them.	H	L	H	H	L	H	H	L	H
+2020_MLa_127_2.docx	Elaboration	In addition, famous sport players are good role models for children, because they start to spend more time on trainings and p. e. lessons, which is completely good work out for their helth.	H	L	H	H	L	H	H	L	H
+2020_MLa_127_2.docx	Argument	Secondly, people who are into sports world, reading news and visiting life events are usually fans of sport clubs or national teams.	H	L	H	L	L	L	L	L	H
+2020_MLa_127_2.docx	Elaboration	Because of this, while watching sports, they have a feeling of being part something bigger then them.	H	L	H	H	L	H	H	L	H
+2020_MLa_127_2.docx	Elaboration	For example, some sport clubs have huge community of fans all over the world.	H	H	H	H	L	H	H	L	H
+2020_MLa_127_2.docx	Elaboration	Thats why, it is easier to connect for people from other countries, which is totally good.	H	L	H	H	L	L	H	L	H
+2020_MLa_127_2.docx	Argument	Thirdly, watching sports is simply very interesting entertainment.	H	H	L	H	H	L	H	H	L
+2020_MLa_127_2.docx	Elaboration	People become friends while watching sport events together, they read a lot of newspapers about sports.	H	L	H	L	L	H	H	L	H
+2020_MLa_127_2.docx	Elaboration	I think, if something gives people a lot of emotions, it could not be called "a waste of time".	H	H	H	H	H	L	H	H	L
+2020_MLa_127_2.docx	Conclusion	To sum up, some people think that watching sport is useless and others should spend time differently.	L	H	H	L	H	L	L	L	H
+2020_MLa_127_2.docx	Conclusion	I can not agree with it, because sport motivate people to become better and make the communication inside the society easier, even for the people from different countries.	H	L	H	L	L	H	H	L	H
+2020_MLa_127_2.docx	Conclusion	Also, it provide people a lot of pleasure to watch or read about,	H	L	H	L	L	H	H	L	H
+2020_MLa_128_2_.docx	Introductory	Many people believe that people waste their leisure time in watching sport whether it is on TV or some sort of live sports events.	H	H	H	H	L	H	H	L	H
+2020_MLa_128_2_.docx	Introductory	Other people consider watching sports as of the best ways for spending free time which helps to encourage people do sports and be more productive.	H	L	H	H	L	H	H	L	H
+2020_MLa_128_2_.docx	Thesis	I strongly disagree that watching sports is a waste of time.	H	H	H	H	H	H	H	H	H
+2020_MLa_128_2_.docx	Argument	It is universally accepted that sports are the engine of life and the best way to improve heatlh.	H	L	H	L	L	H	L	L	H
+2020_MLa_128_2_.docx	Elaboration	Sports become a significant role in our lives starting from childhood because it is an important element in building charachter.	H	L	H	H	L	H	H	L	H
+2020_MLa_128_2_.docx	Elaboration	That is why watching sports affects our daily life and percieve people to watch their health.	H	L	H	H	L	H	H	L	H
+2020_MLa_128_2_.docx	Elaboration	For example, there is no better entartainment for group of friends than visiting sport games and matches.	H	L	H	L	L	L	H	L	L
+2020_MLa_128_2_.docx	Elaboration	It is proven that sports unite and are part of corporate cultures for many big companies which aim to build a team in office by building team in sports.	H	H	H	H	L	H	H	L	H
+2020_MLa_128_2_.docx	Conclusion	Hence, watching sports offers many benefits that are very needed to build a great social life.	H	L	H	H	H	H	H	H	H
+2020_MLa_128_2_.docx	Elaboration	It is easy to find sports lovers from all around the world.	H	H	H	L	H	L	L	H	H
+2020_MLa_128_2_.docx	Elaboration	For example, there is no bigger event than International Olympic Games which gather people from many countries to present theirnational sports spirit and conquer.	H	L	H	H	L	H	H	L	H
+2020_MLa_128_2_.docx	Elaboration	Some of the fans come to see Games in real live and some of them stay home and support their countries watching TV.	H	L	H	L	L	H	L	L	H
+2020_MLa_128_2_.docx	Elaboration	This event unites people all other the world and give people national heroes who inspire youth who adopt healthy lifestyles and can choose sports as their career.	H	L	H	H	L	H	H	L	H
+2020_MLa_128_2_.docx	Conclusion	In conclusion?	H	L	L	L	L	L	L	L	L
+2020_MLa_128_2_.docx	Conclusion	watching sports in free time is a great way of entertainment and this hobby has such a big impact on our lives that we sometimes cannot see.	H	L	H	H	L	L	H	L	L
+2020_MLa_128_2_.docx	Conclusion	People should choose themselves what inspires them the most and has the biggest role in their lives and encourage children to develop interest in sports.	H	L	H	H	L	L	H	L	H
+2020_MLa_129_2.docx	Introductory	There is the opinion among the group of people that consists of the idea watching sports at home or outside is useless and unproductive way of spending time.	H	L	H	H	L	H	H	L	H
+2020_MLa_129_2.docx	Thesis	By my side, I can not agree with them, because I consider this to be beneficial for different sides: as for people watching sports as for sportsmen.	H	L	H	H	L	H	H	L	H
+2020_MLa_129_2.docx	Argument	First of all, it is necessary to notice that watching sports is a type of entertainment.	H	H	H	H	H	H	H	H	H
+2020_MLa_129_2.docx	Elaboration	It common for all of us to see next situation: the football has just ended and your father starts screaming with joy, because his loveliest football team has become a champion.	H	L	H	L	L	H	H	L	H
+2020_MLa_129_2.docx	Elaboration	This fact illustrates the splash of emotions, being such important for our mental health.	H	L	H	L	L	H	H	L	H
+2020_MLa_129_2.docx	Elaboration	Moreover, nowadays we are more stressed then ever before, that is my we truly need to throw out our negative.	L	L	H	L	L	H	H	L	H
+2020_MLa_129_2.docx	Elaboration	So to get rid from it we could watch sports.	L	L	H	L	L	H	H	L	H
+2020_MLa_129_2.docx	Elaboration	In this way, the main benefit of watching sports is becoming relaxed due to these time spending.	H	L	H	H	L	H	H	L	H
+2020_MLa_129_2.docx	Argument	Another sugnificant benefit concerns the watching sports outside, when people come on gaming grounds or stadiums.	H	L	H	H	L	H	H	L	H
+2020_MLa_129_2.docx	Elaboration	Sportsmen playing for our pleasure always need to be cheared up, so they get it only if we emotionally react on all their movements and actions.	H	L	H	H	L	H	H	L	H
+2020_MLa_129_2.docx	Elaboration	Without viewers support any game will become boring and painful for atheletes, who tries to may out spending of time more interesting.	H	L	H	H	L	H	H	L	H
+2020_MLa_129_2.docx	Elaboration	It is not empty because a lot of sportsmen claimed that a lot of their wins were get due to the peoples support from the viewer's seats.	H	L	H	H	L	H	H	L	H
+2020_MLa_129_2.docx	Conclusion	To sum up, I think that watching sports is not such a bad idea.	H	H	L	H	H	L	H	H	L
+2020_MLa_129_2.docx	Conclusion	It could be useful for different groups of people in various ways.	H	H	H	H	H	H	H	H	H
+2020_MLa_12_2.docx	Introductory material	A lot of people think that people who watch sport shows on TV or visit sport games in real life waste their time.	H	H	H	H	H	H	H	H	H
+2020_MLa_12_2.docx	Thesis	I personally disadree with this opinion because there are many reasons why watching sports can be useful for people.	H	L	H	H	L	H	H	L	H
+2020_MLa_12_2.docx	Argument	Firstly, young boys and girls can remember the rules of some sport game or some kind of sport during watching how adult sportsmen play it.	H	L	H	H	L	H	H	L	H
+2020_MLa_12_2.docx	Elaboration	It can teach them may be even better than their parents or trainers.	H	L	H	H	L	H	H	L	H
+2020_MLa_12_2.docx	Argument	Secondly, sometimes children can take a great motivation looking on their favourite sportsmen.	H	L	H	H	L	H	H	L	L
+2020_MLa_12_2.docx	Elaboration	Some of them can decided to be sportsman when he or she will become adult.	H	L	H	H	L	H	H	L	H
+2020_MLa_12_2.docx	Elaboration	Besides, kids who practise some sport are more healthy and strong than others.	H	H	H	L	H	H	L	L	H
+2020_MLa_12_2.docx	Argument	Moreover, some people watch sports events or sport TV shows because they like the feelings which they have.	H	H	L	H	H	L	H	H	L
+2020_MLa_12_2.docx	Elaboration	It is so exciting to look how people from different countries try to become the winners.	H	L	H	H	L	H	H	L	H
+2020_MLa_12_2.docx	Argument	However, I can understend people who agree with first point of view.	L	L	L	L	L	L	L	L	L
+2020_MLa_12_2.docx	Elaboration	Often people spend o lot of time near the TV set watching such shows.	L	L	H	L	L	L	L	L	H
+2020_MLa_12_2.docx	Elaboration	They do not remember about housework and their duties.	L	L	H	L	L	L	L	L	H
+2020_MLa_12_2.docx	Elaboration	When situation become like that men should carefully control themselves and decrease the time near the TV set.	L	L	L	L	L	L	H	L	L
+2020_MLa_12_2.docx	Conclusion	In conclusion, it is important to note that both this opinions have the right to exist.	L	L	L	L	L	L	L	L	L
+2020_MLa_12_2.docx	Conclusion	And every person can make the desition for his own life: watch sport events or not.	L	L	H	L	L	H	L	L	L
+2020_MLa_12_2.docx	Conclusion	On the one hand, it can be good motivation for changes in their lives.	H	H	L	L	H	L	L	H	L
+2020_MLa_12_2.docx	Conclusion	On the other hand, sometimes it is very difficult to control the time which they lose for that.	L	H	H	L	H	H	L	L	H
+2020_MLa_130_2.docx	Introductory	Nowadays, many people believe, that spending time watching sports is extremely boring and have no meaning.	H	L	H	H	L	H	H	L	H
+2020_MLa_130_2.docx	Thesis	What about me, i fully disagree with this statement, me and my family are really enjoing watching footbal matches on tv every Sunday, plus that unite us.	H	L	H	H	L	H	H	L	H
+2020_MLa_130_2.docx	Argument	Many people think, that watching sports is extremely boring.	L	L	L	L	H	L	L	L	H
+2020_MLa_130_2.docx	Elaboration	In most situations they will prefer playing video games, reading a book e.t.c.	L	L	L	L	H	L	H	L	L
+2020_MLa_130_2.docx	Elaboration	Though, they may be right, that sport might be not so dinamick, as vidio games, they just don't understand the main reason for watching sport - spending time with family and friends.	H	L	H	H	L	L	H	L	H
+2020_MLa_130_2.docx	Elaboration	I have a friend, who never watched a footbal match in his life.	L	L	L	L	L	L	L	L	L
+2020_MLa_130_2.docx	Elaboration	I was stunned, when he said me that.	L	L	H	L	L	L	L	L	H
+2020_MLa_130_2.docx	Elaboration	I immediatly invited him to my place to watch a tv match together and make him believe, that it will be good experience, he accepted the offer, but only beacause he wanted prove me wrong.	H	L	L	L	L	L	L	L	H
+2020_MLa_130_2.docx	Elaboration	At the end we spend a lot of fun time together and the last thing he asked was: When there will be next one?	H	L	H	L	L	H	L	L	H
+2020_MLa_130_2.docx	Argument	On the other hand, i have many friends who's really enjoy watching hockey..	L	L	L	L	L	L	L	L	L
+2020_MLa_130_2.docx	Elaboration	They have never played it itself, but they are real fans of their team.	H	H	H	L	H	H	H	L	H
+2020_MLa_130_2.docx	Elaboration	For example my best friend Anton.	L	L	L	L	L	L	L	L	L
+2020_MLa_130_2.docx	Elaboration	He watched hockey every sunday and monday, but never plays it.	L	L	H	L	L	L	H	L	H
+2020_MLa_130_2.docx	Elaboration	When i've asked him - what is the reason he ansvered me: I m really enjoing of watching it fith my friends, they making the whole proces joyable.	H	L	H	L	L	H	H	L	H
+2020_MLa_130_2.docx	Conclusion	Taking everything into account, we can say, that watching sport still is very interesing way of spending time.	H	L	H	H	L	H	H	L	H
+2020_MLa_130_2.docx	Conclusion	Though many people will never understand the true meaning of this - spending time with family and friends.	H	L	H	L	L	L	H	L	H
+2020_MLa_131_2.docx	Introductory	Sport is an integral part of life.	H	H	H	H	H	H	H	H	H
+2020_MLa_131_2.docx	Introductory	Every day we come across we can watch it on TV or participate in various sports events instead of just to participate?	L	L	H	L	L	H	L	L	H
+2020_MLa_131_2.docx	Thesis	Many would agree that rooting fos sports is an important as doing it.	H	L	H	H	L	L	L	L	H
+2020_MLa_131_2.docx	Argument	First, fans are large global community that brings people together around the world.	H	L	H	H	L	H	H	L	H
+2020_MLa_131_2.docx	Elaboration	During the World Cup, many foreign fans came to Russia, this changed the way Russians look at other cultures, helped to become more open.	H	L	H	H	L	H	H	L	H

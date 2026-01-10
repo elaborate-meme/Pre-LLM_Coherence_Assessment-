@@ -3,7 +3,7 @@ A repository with code and data for the paper "Simple Solutions for Complex Task
 
  - Experiment 1 - experiment with classic ML
  - Experiment 2 - experiment with embedding-based approach
- - Experiment 4 - experiment with BERT, RoBERTa, ModernBERT
+ - Experiment 3 - experiment with BERT, RoBERTa, ModernBERT
  - IAA - inter-annotator agreement calculation
  
 Training datasets (empty at the moment due to the Huggingface account hosting them being identifiable, will be made available upon the paper acceptance).

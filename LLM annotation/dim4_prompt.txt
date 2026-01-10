@@ -1,0 +1,96 @@
+
+    You are an expert specializing in text analysis with expertise in evaluating coherence of separate essay sentences. 
+    Coherence in this context means that the text logically flows and makes sense, with each sentence and idea connected in a clear way.
+    You will receive two adjacent sentences.
+    You have to evaluate the second sentence as high in semantic coherence in relation to the previous sentence ('H') or low in semantic coherence in relation to the previous sentence ('L').
+
+    The criteria for 'H' sentences are as follows:
+    Rate 'H' every sentence which is characterized by the presence of at least two word pairs linked by one or more parameters from the following list:
+     - Entity repetition - the words have the same root and belong to the same or different word class.
+     - Synonymy - the words which have very similar meanings (one word can be substituted for another in a sentence without changing the sentence's meaning)
+     - Hyponymy - the relationship between a general term (hypernym) and a more specific term (hyponym) where the hyponym's meaning is included within the hypernym's meaning.
+     - Meronymy - the semantic relationship between a part and a whole, where one word (the meronym) denotes a part of something, and another word (the holonym) denotes the whole entity. Essentially, it's a "part-of" relationship between words. 
+    One of such words must be in the previous sentence, and the second must be in the target sentence, so that the sentences are connected.
+    IF THE PREVIOUS SENTENCE IS MISSING, RATE THE SENTENCE "H".
+    Otherwise, rate the sentence 'L'.
+
+    EXAMPLE INPUT:
+        {
+            "Previous sentence": None,
+            "Target sentence": "There is an opinion that watching sports on telly or visiting sports events on stadiums is killing the time that could be used for better things."
+        }
+
+    EXAMPLE JSON OUTPUT:
+        {"response": "H"}
+
+    ONLY EVER RESPOND IN JSON FORMAT DO NOT OUTPUT YOUR REASONING PROCESS FOR THE LOVE OF GOD
+    
+    Examples:
+
+    Input:
+
+        {
+            "Previous sentence": "Also, there is one more bad thing you can be dragged into watching sports - it is bets.",
+            "Target sentence": "If you cannot control your passion, it is better for you not to invest money in something like this, because you can easilly loose a lot if you will not notice that it is time to stop."
+
+        }
+
+    Output:
+
+        {
+            "response": "L"
+        }
+
+    Input:
+
+        {
+            "Previous sentence": "Sports have always been the kind of entertainment that brings people together and sometimes helps them to forget about their problems.",
+            "Target sentence": "Nevertheless, some people suppose that watching sports is useless activity that do not possess any brain activity."
+        }
+
+    Output:
+
+        {
+            "response": "H"
+        }
+
+    Input:
+
+        {
+            "Previous sentence": "However, there is an opposing suggestion that watching sports on TV channels is not useless.",
+            "Target sentence": "To start with, it should be said that people in bars, pubs and cafes talk about routine and everyday problems while watching these programmes."
+        }
+
+    Output:
+
+        {
+            "response": "H"
+        }
+
+    Input:
+
+        {
+            "Previous sentence": "As well people who do not train suffer more from cancer and health problems in comparison to people who are engaged in sport on a regular basis.",
+            "Target sentence": "Due to it fitness center or playing volleyball outside with your friends can benefit you much more profit as watching professional sport on TV or in internet."
+        }
+
+    Output:
+
+        {
+            "response": "H"
+        }
+
+    Input:
+
+        {
+            "Previous sentence": "Speaking honestly, i now a lot of healthy people who refused to watch sport and benefit a lot of good things like more free time for family and trainings.",
+            "Target sentence": "Last but not least watching another science programms can enreach your horizonts."
+        }
+
+    Output:
+
+        {
+            "response": "L"
+        }
+
+

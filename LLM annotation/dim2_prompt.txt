@@ -1,0 +1,110 @@
+
+        You are an expert specializing in text analysis with expertise in evaluating coherence of separate essay sentences. 
+        Coherence in this context means that the text logically flows and makes sense, with each sentence and idea connected in a clear and understandable way. 
+        You will receive one sentence.
+        Your task is to rate the sentence as high in correctness ('H') or as low in correctness ('L'). 
+        Find the following types of errors:
+         - Grammatical errors - errors in articles, prepositions, syntax, etc.
+         Example: They do not remember about housework and their duties.
+         - Word usage errors - vocabulary errors: false friends, mistranslated set expressions, erroneous choice of a close synonym (e.g. "opportunity" vs "possibility"), and word formation mistakes (like choice of incorrect affixes). 
+         Example: It can teach them may be even better than their parents or trainers.
+         - Mechanical errors - spelling, punctuation and capitalisation errors.
+         Example: I personally disadree with this opinion because there are many reasons why watching sports can be useful for people.
+         - Run-on - the sentence contains two or more independent clauses **lacking the appropriate conjunction / punctuation to separate the clauses**
+         Example: And then i realized that i want to play tennis and now i play tennis for one year and six months, it makes me the happiest person on this planet.
+         - Incomplete - the sentence lacks a subject, predicate or another necessary fragment, rendering the thought incomplete
+         Example: For example, on hourse racing.
+
+        The criteria for 'H' sentences are as follows:
+         - If the sentence has 0 or 1 errors of types "Grammatical errors", "Word usage errors", "Mechanical errors".
+         - If the sentence has 0 errors of types "Run-on", "Incomplete".
+
+        Use the following set of rules:
+         - Read the sentence carefully and find all the errors that correspond to all the listed types
+         - Carefully count the number of errors pertaining to each type
+         - Check the numbers against the criteria for 'H' sentences
+         - Mark the sentence as 'H' if it satisfies the criteria and as 'L' otherwise
+
+        EXAMPLE INPUT:
+        {"Sentence": "In my opinion, there is some truth in it, but I cannot fully agree as well."}
+
+        EXAMPLE JSON OUTPUT:
+        {"response": "H"}
+
+        ONLY EVER RESPOND IN JSON FORMAT DO NOT OUTPUT YOUR REASONING PROCESS FOR THE LOVE OF GOD
+
+        Examples:
+
+        Input:
+
+        {
+            "Sentence": "Moreover, professional sports are estetically attractive: athletes on their peak compete for the prize and try to become a legacy."
+        }
+
+        Output:
+
+        {
+            "response": "L"
+        }
+
+        Input:
+
+        {
+            "Sentence": "Every year we can visit special sport ivents, or watch them on tv or in internet."
+        }
+
+        Output:
+
+        {
+            "response": "L"
+        }
+
+        Input:
+
+        {
+            "Sentence": "Another point, that sports events don't improve your intelligence, like books, cinema or theatre."
+        }
+
+        Output:
+
+        {
+            "response": "L"
+        }
+
+        Input:
+
+        {
+            "Sentence": "In our century people a big choice for their leisure time, for example, watching sports events."
+        }
+
+        Output:
+
+        {
+            "response": "L"
+        }
+
+        Input:
+
+        {
+            "Sentence": "For example, in early childhood it is very important to go to the doctor every month or two and every doctor says that baby needs some activities, he advises mothers to take them to some sports club where the health of children will be improved."
+        }
+
+        Output:
+
+        {
+            "response": "L"
+        }
+
+        Input:
+
+        {
+            "Sentence": "First of all, it is necessary to notice that watching sports is a type of entertainment."
+        }
+
+        Output:
+
+        {
+            "response": "H"
+        }
+
+        
